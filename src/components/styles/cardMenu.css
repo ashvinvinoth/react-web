@@ -1,0 +1,18 @@
+.cardMenu {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+
+}
+
+.icon {
+  margin-right: 1em;
+  width: 23px;
+  height: 23px;
+}
+
+.interactions {
+  display: flex;
+  padding-left: 1em;
+}
+

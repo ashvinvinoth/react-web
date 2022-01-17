@@ -1,0 +1,18 @@
+
+
+.storyBorder {
+  padding: 2px;
+  border-radius: 50%;
+  background: linear-gradient(
+    200deg,
+  );
+}
+
+.profileIcon {
+  border-radius: 50%;
+  border: 2px solid;
+  display: block;
+  width: 30px;
+  height: 30px;
+
+}
